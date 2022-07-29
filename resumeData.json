@@ -1,0 +1,135 @@
+{
+  "main": {
+    "name": "Elijah Wong",
+    "occupation": "Lead AI Engineer, builder and problem solver. ",
+    "description": "I like to build solution, develop model, and make simulation. My interests are in the field of AI/ML, Blockchain and Science",
+    "image": "profilepic.jfif",
+    "bio": "I'm a physics trained AI engineer that specialized in data analytics, ML model development and statistics. My other interest is blockchain/DLT technology, especially in the smart contract deployment of ERC721 (NFT) and ERC20 tokens.",
+    "contactmessage": "Please contact me if you are interested to know more",
+    "email": "elijahwongww@gmail.com",
+    "phone": "+60149294419",
+    "address": {
+      "street": "",
+      "city": "Subang Jaya",
+      "state": "Selangor",
+      "zip": ""
+    },
+    "website": "https://sciwalker.github.io/",
+    "resumedownload": "https://sciwalker.github.io/cv.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/wen-wei-elijah-wong-35b80522/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/SciWalker",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Universiti Putra Malaysia",
+        "degree": "Masters of Science − Mathematical and Computational Physics",
+        "graduated": "April 2013",
+        "description": "Theoretical research on the geometrical space of two-qubit quantum states"
+      }
+    ],
+    "work": [
+      {
+        "company": "Gamer2Gamer",
+        "title": "Lead AI Engineer",
+        "years": "January 2021 - Present",
+        "description": "Leading the AI team in development and architectural design of the eKYC product and its API deployments as cloud service."
+      },
+      {
+        "company": "I-Serve Payment Gateway",
+        "title": "Research and Development Engineer",
+        "years": "August 2019 - December 2020",
+        "description": "Initiate and lead the Research and Development of IT and technological products."
+      },
+      {
+        "company": "Tunku Abdul Rahman University College",
+        "title": "Lecturer",
+        "years": "August 2013 - August 2019",
+        "description": "Designed physics syllabus and exam papers, taught and guided students in their science and maths discovery. "
+      }
+    ],
+    "programming_skills": [
+      {
+        "name": "Python",
+        "level": "90%"
+      },
+      {
+        "name": "Javascript",
+        "level": "65%"
+      },
+      {
+        "name": "HTML",
+        "level": "60%"
+      },
+      {
+        "name": "Solidity",
+        "level": "50%"
+      },
+      {
+        "name": "Rust",
+        "level": "35%"
+      }
+    ],
+    "framework_knowledge": [
+      {
+        "name": "Tensorflow",
+        "level": "85%"
+      },
+      {
+        "name": "AWS Cloud",
+        "level": "80%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "70%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "50%"
+      },
+      {
+        "name": "EthersJS",
+        "level": "45%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Phymath",
+        "category": "(currently not updated) educational website of physics and maths",
+        "image": "logo-phymath.png",
+        "url": "https://www.phymath.com"
+      },
+      {
+        "title": "AI generated arts",
+        "category": "I generated the arts using GAN, trained using open sourced abstract arts collection",
+        "image": "endless_thyme.png",
+        "url": "https://opensea.io/collection/ai-generated-nine-tiles"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
