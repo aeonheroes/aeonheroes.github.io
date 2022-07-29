@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/tech/crypto-page/build/static/css/main.f423abe8.css",
-    "main.js": "/tech/crypto-page/build/static/js/main.b5ffb334.js",
-    "static/media/ElijahFriend.txt": "/tech/crypto-page/build/static/media/ElijahFriend.af5bb17c459efd6eaee8.txt",
-    "index.html": "/tech/crypto-page/build/index.html",
-    "main.f423abe8.css.map": "/tech/crypto-page/build/static/css/main.f423abe8.css.map",
-    "main.b5ffb334.js.map": "/tech/crypto-page/build/static/js/main.b5ffb334.js.map"
+    "main.css": "/static/css/main.f423abe8.css",
+    "main.js": "/static/js/main.8afd6c2a.js",
+    "static/media/ElijahFriend.txt": "/static/media/ElijahFriend.af5bb17c459efd6eaee8.txt",
+    "index.html": "/index.html",
+    "main.f423abe8.css.map": "/static/css/main.f423abe8.css.map",
+    "main.8afd6c2a.js.map": "/static/js/main.8afd6c2a.js.map"
   },
   "entrypoints": [
     "static/css/main.f423abe8.css",
-    "static/js/main.b5ffb334.js"
+    "static/js/main.8afd6c2a.js"
   ]
 }
